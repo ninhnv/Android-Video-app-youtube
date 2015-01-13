@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Kênh Vlog</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    
+    <string-array name="menu_slide_item">
+        <item>jvevermind</item>
+        <item>HuyMeProductions</item>
+        <item>Toàn Shinoda</item>
+        <item>Lâm Việt Anh</item>
+        <item>Du Học Sinh Mỹ</item>
+        <item>An Nguy</item>
+    </string-array>
+
+</resources>
